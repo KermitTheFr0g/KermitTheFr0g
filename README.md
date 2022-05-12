@@ -13,10 +13,10 @@
 <h2 align="center">Contact Me</h2>
 <p align="center">
 <a href="mailto: o.gray@ldnfam.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:o.gray@ldnfam.com"/>
+ <img src="https://img.shields.io/badge/-Oli Gray-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:o.gray@ldnfam.com"/>
 </a>
  <a href="https://twitter.com/OGKermit_">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/OGKermit_"/>
+ <img src="https://img.shields.io/badge/-OGKermit_-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/OGKermit_"/>
 </a>
 </p>
 
