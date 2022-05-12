@@ -40,7 +40,8 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=KermitTheFr0g&theme=redical&hide_border=true">
 </p>
-
+<!--
 <hr>
 
 <p align="center">Life like a toaster, they only care when the bread pop out</p>
+-->
