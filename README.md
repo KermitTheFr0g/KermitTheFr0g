@@ -10,6 +10,7 @@
 
 </p>
 
+<!-- Contact me page
 <h2 align="center">Contact Me</h2>
 <p align="center">
 <a href="mailto: o.gray@ldnfam.com">
@@ -19,6 +20,7 @@
  <img src="https://img.shields.io/badge/-OGKermit_-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/OGKermit_"/>
 </a>
 </p>
+-->
 
 <br>
 
