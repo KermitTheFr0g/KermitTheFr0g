@@ -1,4 +1,4 @@
-<h2 align='center'>Practice like you've never won, Play like you never lose</h3>
+<h2 align='center'>Practice like you've never won, Perform like you never lose</h3>
 
 <!-- Add in a cool image here  -->
 
